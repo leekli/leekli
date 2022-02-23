@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+	<a href="https://github.com/leekli"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
 
-<!--
-**leekli/leekli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Lee 👋
 
-Here are some ideas to get you started:
+### Welcome to my GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a new Web Developer & Software Developer, undertaking a career change to follow my passion for tech and programming. This is my venture into a new world... 🌎
+
+I am a current student of the 'Northcoders Coding bootcamp', and I am studying for a part-time Masters degree in Computer Science 🎓
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leekli.leekli&left_color=green&right_color=red)
+
+<img src="https://github-readme-stats.vercel.app/api?username=leekli&show_icons=true&theme=algolia" width="400">
