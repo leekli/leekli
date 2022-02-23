@@ -27,8 +27,6 @@ I am a current student of the 'Northcoders Coding bootcamp', and I am studying f
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leekli.leekli&left_color=green&right_color=red)
-
 <p align="left">
 	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
