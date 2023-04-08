@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub
 
-I am a new Web Developer & Software Developer, undertaking a career change to follow my passion for tech and programming. This is my venture into a new world... 🌎
+I am a Web Developer & Software Developer, undertaking a career change to follow my passion for tech and programming. This is my venture into a new world... 🌎
 
 I am a graduate student of the 'Northcoders Coding web development bootcamp', and I am studying for a part-time Masters degree in Computer Science 🎓
 
