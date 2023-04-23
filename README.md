@@ -2,9 +2,9 @@
 
 ### Welcome to my GitHub
 
-I am a Web Developer & Software Developer, undertaking a career change to follow my passion for tech and programming. This is my venture into a new world... 🌎
+I am a Web Developer & Software Developer.
 
-I am a graduate student of the 'Northcoders Coding web development bootcamp', and I am studying for a part-time Masters degree in Computer Science 🎓
+I am a graduate student of the 'Northcoders Coding web development bootcamp', and I am currently studying for a part-time Masters degree in Computer Science 🎓
 
 ---
 
@@ -35,4 +35,4 @@ I am a graduate student of the 'Northcoders Coding web development bootcamp', an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekli&hide=TeX&layout=compact)
 
-<img src="https://www.codewars.com/users/leekli/badges/large" />
+<a href="https://www.codewars.com/users/leekli" target=”_blank”><img src="https://www.codewars.com/users/leekli/badges/large" /></a>
