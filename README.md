@@ -34,3 +34,5 @@ I am a graduate student of the 'Northcoders Coding web development bootcamp', an
 <img src="https://github-readme-stats.vercel.app/api?username=leekli&show_icons=true&theme=algolia" width="400">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekli&hide=TeX&layout=compact)
+
+<img src="https://www.codewars.com/users/leekli/badges/large"/ >
