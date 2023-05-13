@@ -4,6 +4,10 @@
 
 I am a Software Developer, graduate student of the Northcoders bootcamp, and I am currently studying for a part-time Masters degree in Computer Science 🎓
 
+<p align="left">
+	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
+
 ---
 ### ⚡ My Main Repos
 
@@ -45,10 +49,6 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and I a
 
 ---
 ### ⚡ My Stats
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=leekli&show_icons=true&theme=algolia" width="400">
 
