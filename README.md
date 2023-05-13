@@ -1,18 +1,36 @@
-## Hi there, I'm Lee 👋
+## Hi, I'm Lee 👋
 
-### Welcome to my GitHub
+### Welcome to my GitHub 😀
 
-I am a Web Developer & Software Developer.
+I am a Software Developer, graduate student of the Northcoders bootcamp, and I am currently studying for a part-time Masters degree in Computer Science 🎓
 
-I am a graduate student of the 'Northcoders Coding web development bootcamp', and I am currently studying for a part-time Masters degree in Computer Science 🎓
+---
+### ⚡ My Main Repos
+
+#### 💼 Portfolio Projects:
+
+1. **NC-News Backend API**: https://github.com/leekli/nc-news-backend
+2. **NC-News Frontend App**: https://github.com/leekli/nc-news-frontend
+3. **InclusiveManchester Backend API**: https://github.com/leekli/AccessApp-Backend
+4. **InclusiveManchester Frontend App**: https://github.com/leekli/AccessApp-Frontend
+
+
+#### 🧠 Katas & Problem Solving challenges:
+
+1. **My Codewars solutions**: https://github.com/leekli/codewars-my-solutions
+3. **My Advent of code solutions**: https://github.com/leekli/aoc2022
+4. **My Project Euler solutions**: https://github.com/leekli/project-euler
+5. **'Grokking Algorithms' Implementations**: https://github.com/leekli/grokking-algorithms-js
 
 ---
 
-## ⚡ Technologies
+### ⚡ Technologies I've used and have experience with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -26,6 +44,7 @@ I am a graduate student of the 'Northcoders Coding web development bootcamp', an
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
+### ⚡ My Stats
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
