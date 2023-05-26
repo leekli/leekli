@@ -1,8 +1,8 @@
 ## Hi, I'm Lee 👋
 
-### Welcome to my GitHub 😀
+### Welcome to my GitHub 😀🇬🇧♐️
 
-I am a Software Developer, graduate student of the Northcoders bootcamp, and I am currently studying for a part-time Masters degree in Computer Science 🎓
+I am a Software Developer, graduate student of the Northcoders bootcamp, and currently studying for a Masters degree in Computer Science 🎓
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
