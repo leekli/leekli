@@ -17,6 +17,7 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 2. **NC-News Frontend App**: https://github.com/leekli/nc-news-frontend
 3. **InclusiveManchester Backend API**: https://github.com/leekli/AccessApp-Backend
 4. **InclusiveManchester Frontend App**: https://github.com/leekli/AccessApp-Frontend
+5. **Clinical Guideline Authoring App (Part of University Dissertation Project**: https://github.com/leekli/clinical-guideline-app 
 
 
 #### 🧠 Katas & Problem Solving challenges:
