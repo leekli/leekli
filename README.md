@@ -13,18 +13,20 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 
 #### 💼 Portfolio Projects:
 
-1. **NC-News Backend API**: https://github.com/leekli/nc-news-backend
-2. **NC-News Frontend App**: https://github.com/leekli/nc-news-frontend
-3. **InclusiveManchester Backend API**: https://github.com/leekli/AccessApp-Backend
-4. **InclusiveManchester Frontend App**: https://github.com/leekli/AccessApp-Frontend
+1. [Lee-News: Backend API](https://github.com/leekli/nc-news-backend)
+2. [Lee-News: Frontend App](https://github.com/leekli/nc-news-frontend)
+3. [InclusiveManchester: Backend API](https://github.com/leekli/AccessApp-Backend)
+4. [InclusiveManchester: Frontend App](https://github.com/leekli/AccessApp-Frontend)
+5. [Clinical Guideline Authoring App: Backend API](https://github.com/leekli/clinical-guideline-app-BE): *This is part of my University Dissertation Project*
+6. [Clinical Guideline Authoring App: Frontend App](https://github.com/leekli/clinical-guideline-app-FE): *This is part of my University Dissertation Project*
 
 
-#### 🧠 Katas & Problem Solving challenges:
+#### 🧠 Katas & Problem Solving Solutions:
 
-1. **My Codewars solutions**: https://github.com/leekli/codewars-my-solutions
-3. **My Advent of code solutions**: https://github.com/leekli/aoc2022
-4. **My Project Euler solutions**: https://github.com/leekli/project-euler
-5. **'Grokking Algorithms' Implementations**: https://github.com/leekli/grokking-algorithms-js
+1. [My Codewars solutions](https://github.com/leekli/codewars-my-solutions)
+3. [My Advent of code solutions](https://github.com/leekli/aoc2022)
+4. [My Project Euler solutions](https://github.com/leekli/project-euler)
+5. ['Grokking Algorithms' Implementations](https://github.com/leekli/grokking-algorithms-js)
 
 ---
 
