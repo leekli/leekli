@@ -13,12 +13,36 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 
 #### 💼 Portfolio Projects:
 
-1. [Lee-News: Backend API](https://github.com/leekli/nc-news-backend)
-2. [Lee-News: Frontend App](https://github.com/leekli/nc-news-frontend)
-3. [InclusiveManchester: Backend API](https://github.com/leekli/AccessApp-Backend)
-4. [InclusiveManchester: Frontend App](https://github.com/leekli/AccessApp-Frontend)
-5. [Clinical Guideline Authoring App: Backend API](https://github.com/leekli/clinical-guideline-app-BE): *This is part of my University Dissertation Project*
-6. [Clinical Guideline Authoring App: Frontend App](https://github.com/leekli/clinical-guideline-app-FE): *This is part of my University Dissertation Project*
+<strong> 1. Lee News</strong>
+<pre>
+A full stack app which displays news articles, comments, upvoting capability and user login.
+	Users can also add comments, add news articles, and more.
+Complete as part of a solo week long project on a coding bootcamp.
+</pre>
+- <a href="https://github.com/leekli/nc-news-backend">Lee-News: Backend API</a>
+- <a href="https://github.com/leekli/nc-news-frontend">Lee-News: Frontend App</a>
+
+<strong> 2. Inclusive Manchester</strong>
+<pre>
+A full stack app which allows people with accessibility needs to review, rate and comment on
+	public venues and businesses on how inclusive, accessible and friendly they are.
+Complete as part of a 3 week group work project on a coding bootcamp.
+</pre>
+- <a href="https://github.com/leekli/AccessApp-Backend">InclusiveManchester: Backend API</a>
+- <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a>
+
+<strong> 3. Clinical Guideline Authoring App</strong>
+
+<em>🚧 This is a live project, due to be complete ~c. August 2023</em>
+<pre>
+A full stack app which allows clinicians and other medical professionals to access, disseminate clinical
+	medical guidelines. It is also an authoring system to allow for the creation of new clinical
+	guidelines and ability to edit existing clinical guidelines.
+Also includes a version control system, change tracking system and publishing approval system.
+Complete as part of my Dissertation Project module of my MSC in Computer Science.
+</pre>
+- <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a>
+- <a href="https://github.com/leekli/clinical-guideline-app-FE">Clinical Guideline Authoring App: Frontend App</a>
 
 
 #### 🧠 Katas & Problem Solving Solutions:
@@ -27,6 +51,11 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 3. [My Advent of code solutions](https://github.com/leekli/aoc2022)
 4. [My Project Euler solutions](https://github.com/leekli/project-euler)
 5. ['Grokking Algorithms' Implementations](https://github.com/leekli/grokking-algorithms-js)
+
+
+#### 🎮 Hobby / Fun:
+
+1. [Windows XP Desktop Recreation](https://github.com/leekli/windows-desktop-fun)
 
 ---
 
