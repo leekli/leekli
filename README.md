@@ -32,6 +32,7 @@ Complete as part of a 3 week group work project on a coding bootcamp.
 </pre>
 - <a href="https://github.com/leekli/AccessApp-Backend">InclusiveManchester: Backend API</a>
 - <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a>
+- <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Our teams group presentation and live demo here</a>
 
 <strong> 3. Clinical Guideline Authoring App</strong>
 
