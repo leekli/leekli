@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 ## Hi, I'm Lee 👋
 
 ### Welcome to my GitHub 😀🇬🇧♐️
