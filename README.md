@@ -15,35 +15,35 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 
 #### 💼 Portfolio Projects:
 
-<strong> 1. Lee News</strong>
-<pre>
+<strong> 1. LeeNews</strong>
+<blockquote>
 A full stack app which displays news articles, comments, upvoting capability and user login.
 	Users can also add comments, add news articles, and more.
 Complete as part of a solo week long project on a coding bootcamp.
-</pre>
+</blockquote>
 - <a href="https://github.com/leekli/nc-news-backend">Lee-News: Backend API</a>
 - <a href="https://github.com/leekli/nc-news-frontend">Lee-News: Frontend App</a>
-
+<br /><br />
 <strong> 2. Inclusive Manchester</strong>
-<pre>
+<blockquote>
 A full stack app which allows people with accessibility needs to review, rate and comment on
 	public venues and businesses on how inclusive, accessible and friendly they are.
 Complete as part of a 3 week group work project on a coding bootcamp.
-</pre>
+</blockquote>
 - <a href="https://github.com/leekli/AccessApp-Backend">InclusiveManchester: Backend API</a>
 - <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a>
 - <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Our teams group presentation and live demo here</a>
-
+<br /><br />
 <strong> 3. Clinical Guideline Authoring App</strong>
 
-<em>🚧 This is a live project, due to be complete ~c. August 2023</em>
-<pre>
+<em>🚧 This is a live project, due to be complete ~c. September 2023</em>
+<blockquote>
 A full stack app which allows clinicians and other medical professionals to access, disseminate clinical
 	medical guidelines. It is also an authoring system to allow for the creation of new clinical
 	guidelines and ability to edit existing clinical guidelines.
 Also includes a version control system, change tracking system and publishing approval system.
 Complete as part of my Dissertation Project module of my MSC in Computer Science.
-</pre>
+</blockquote>
 - <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a>
 - <a href="https://github.com/leekli/clinical-guideline-app-FE">Clinical Guideline Authoring App: Frontend App</a>
 
