@@ -36,7 +36,6 @@ Complete as part of a 3 week group work project on a coding bootcamp.
 <br /><br />
 <strong> 3. Clinical Guideline Authoring App</strong>
 
-<em>🚧 This is a live project, due to be complete ~c. September 2023</em>
 <blockquote>
 A full stack app which allows clinicians and other medical professionals to access, disseminate clinical
 	medical guidelines. It is also an authoring system to allow for the creation of new clinical
