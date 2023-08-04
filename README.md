@@ -21,7 +21,7 @@ A full stack app which displays news articles, comments, upvoting capability and
 	Users can also add comments, add news articles, and more.
 Complete as part of a solo week long project on a coding bootcamp.
 </blockquote>
-- <a href="https://github.com/leekli/nc-news-backend">Lee-News: Backend API</a>
+- <a href="https://github.com/leekli/nc-news-backend">Lee-News: Backend API</a><br />
 - <a href="https://github.com/leekli/nc-news-frontend">Lee-News: Frontend App</a>
 <br /><br />
 <strong> 2. Inclusive Manchester</strong>
@@ -30,8 +30,8 @@ A full stack app which allows people with accessibility needs to review, rate an
 	public venues and businesses on how inclusive, accessible and friendly they are.
 Complete as part of a 3 week group work project on a coding bootcamp.
 </blockquote>
-- <a href="https://github.com/leekli/AccessApp-Backend">InclusiveManchester: Backend API</a>
-- <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a>
+- <a href="https://github.com/leekli/AccessApp-Backend">InclusiveManchester: Backend API</a><br />
+- <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a><br />
 - <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Our teams group presentation and live demo here</a>
 <br /><br />
 <strong> 3. Clinical Guideline Authoring App</strong>
@@ -43,7 +43,7 @@ A full stack app which allows clinicians and other medical professionals to acce
 Also includes a version control system, change tracking system and publishing approval system.
 Complete as part of my Dissertation Project module of my MSC in Computer Science.
 </blockquote>
-- <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a>
+- <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a><br />
 - <a href="https://github.com/leekli/clinical-guideline-app-FE">Clinical Guideline Authoring App: Frontend App</a>
 
 
