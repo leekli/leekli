@@ -23,8 +23,10 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 - <a href="https://github.com/leekli/nc-news-backend">Lee-News: Backend API</a><br />
 - <a href="https://github.com/leekli/nc-news-frontend">Lee-News: Frontend App</a>
 <br /><br />
+
 <strong> 2. Inclusive Manchester</strong>
 <br />
+
 > [!NOTE]  
 > A full stack app which allows people with accessibility needs to review, rate and comment on public venues and businesses on how inclusive, accessible and friendly they are. Complete as part of a 3 week group work project on a coding bootcamp.
 
@@ -32,8 +34,10 @@ I am a Software Developer, graduate student of the Northcoders bootcamp, and cur
 - <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a><br />
 - <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Our teams group presentation and live demo here</a>
 <br /><br />
+
 <strong> 3. Clinical Guideline Authoring App</strong>
 <br />
+
 > [!NOTE]  
 > A full stack app which allows clinicians and other medical professionals to access, disseminate clinical medical guidelines. It is also an authoring system to allow for the creation of new clinical guidelines and ability to edit existing clinical guidelines. Also includes a version control system, change tracking system and publishing approval system. Complete as part of my Dissertation Project module of my MSc in Computer Science.
 
