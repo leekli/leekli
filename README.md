@@ -50,21 +50,21 @@
 1. [My Codewars solutions](https://github.com/leekli/codewars-my-solutions)
 3. [My Advent of code solutions](https://github.com/leekli/aoc2022)
 4. [My Project Euler solutions](https://github.com/leekli/project-euler)
-5. ['Grokking Algorithms' Implementations](https://github.com/leekli/grokking-algorithms-js)
 
 
 #### 🎮 Hobby / Fun:
 
 1. [Windows XP Desktop Recreation](https://github.com/leekli/windows-desktop-fun)
+2. [Create own: `wc` Command Line Tool](https://github.com/leekli/wc-recreation)
 
 ---
 
 ### ⚡ Technologies I've used and have experience with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -72,11 +72,16 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Zod](https://img.shields.io/badge/-Zod-black?style=flat-square&logo=zod)
+![tRPC](https://img.shields.io/badge/-tRPC-black?style=flat-square&logo=trpc)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Supertest](https://img.shields.io/badge/-Supertest-black?style=flat-square&logo=supertest)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=macos)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ---
 ### ⚡ My Stats
