@@ -24,7 +24,17 @@
 - <a href="https://github.com/leekli/nc-news-frontend">Lee-News: Frontend App</a>
 <br /><br />
 
-<strong> 2. Inclusive Manchester</strong>
+<strong> 2. Clinical Guideline Authoring App</strong>
+<br />
+
+> [!NOTE]  
+> A full stack app which allows clinicians and other medical professionals to access, disseminate clinical medical guidelines. It is also an authoring system to allow for the creation of new clinical guidelines and ability to edit existing clinical guidelines. Also includes a version control system, change tracking system and publishing approval system. Complete as part of my Dissertation Project module of my MSc in Computer Science.
+
+- <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a><br />
+- <a href="https://github.com/leekli/clinical-guideline-app-FE">Clinical Guideline Authoring App: Frontend App</a>
+<br /><br />
+
+<strong> 3. Inclusive Manchester</strong>
 <br />
 
 > [!NOTE]  
@@ -34,16 +44,6 @@
 - <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a><br />
 - <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Our teams group presentation and live demo here</a>
 <br /><br />
-
-<strong> 3. Clinical Guideline Authoring App</strong>
-<br />
-
-> [!NOTE]  
-> A full stack app which allows clinicians and other medical professionals to access, disseminate clinical medical guidelines. It is also an authoring system to allow for the creation of new clinical guidelines and ability to edit existing clinical guidelines. Also includes a version control system, change tracking system and publishing approval system. Complete as part of my Dissertation Project module of my MSc in Computer Science.
-
-- <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a><br />
-- <a href="https://github.com/leekli/clinical-guideline-app-FE">Clinical Guideline Authoring App: Frontend App</a>
-
 
 #### 🧠 Katas & Problem Solving Solutions:
 
@@ -55,7 +55,7 @@
 #### 🎮 Hobby / Fun:
 
 1. [Windows XP Desktop Recreation](https://github.com/leekli/windows-desktop-fun)
-2. [Create own: `wc` Command Line Tool](https://github.com/leekli/wc-recreation)
+2. [Created own: `wc` Command Line Tool](https://github.com/leekli/wc-recreation)
 
 ---
 
