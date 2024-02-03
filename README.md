@@ -4,7 +4,9 @@
 
 ### Welcome to my GitHub 😀🇬🇧♐️
 
-🎯 I am a Software Developer, with an MSc in Computer Science 🎓, currently studying on a Part-time DevOps bootcamp ☁️.
+🎯 I am a Software Developer.
+
+🎓 I've achieved a Distinction in MSc Computer Science (December 2023). I've also completed a 13-week Software Engineering Bootcamp, and a 20-week DevOps Bootcamp.
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
