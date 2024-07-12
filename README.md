@@ -6,7 +6,7 @@
 
 🎯 I am a Software Developer.
 
-🎓 I've achieved a Distinction in MSc Computer Science (December 2023). I've also completed a 13-week Software Engineering Bootcamp, and a 20-week DevOps Bootcamp.
+🎓 I've achieved a Distinction in MSc Computer Science (December 2023). I've also completed a 13-week Software Engineering Bootcamp (in 2022), and a 20-week DevOps Bootcamp (in 2023).
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
@@ -65,13 +65,17 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=sharp)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![jQuery](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
@@ -81,6 +85,7 @@
 ![Supertest](https://img.shields.io/badge/-Supertest-black?style=flat-square&logo=supertest)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-black?style=flat-square&logo=googlecloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
