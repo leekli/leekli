@@ -33,48 +33,44 @@
 <strong> 1. Lee's News</strong>
 <br />
 > [!NOTE]  
-> A full stack app which displays news articles, comments, upvoting capability and user login. Users can also add comments, add news articles, and more. Complete as part of a solo week long project on a coding bootcamp.
+> Full-stack news app allowing users to read & add articles, add comments, voting. Created on coding bootcamp.
 
-- <a href="https://github.com/leekli/nc-news-backend">Lee-News: Backend API</a><br />
-- <a href="https://github.com/leekli/nc-news-frontend">Lee-News: Frontend App</a>
+- <a href="https://github.com/leekli/nc-news-backend">Backend API</a> | <a href="https://github.com/leekli/nc-news-frontend">Frontend App</a>
 <br /><br />
 
 <strong> 2. Clinical Guideline Authoring App</strong>
 <br />
 
 > [!NOTE]  
-> A full stack app which allows clinicians and other medical professionals to access, disseminate clinical medical guidelines. It is also an authoring system to allow for the creation of new clinical guidelines and ability to edit existing clinical guidelines. Also includes a version control system, change tracking system and publishing approval system. Complete as part of my Dissertation Project module of my MSc in Computer Science.
+> Full-stack app which allows clinicians to access clinical guidelines. Includes an authoring system to edit and create guidelines with other clinicans, version control, change tracking and publishing approval systems. Complete as part of my MSc Computer Science.
 
-- <a href="https://github.com/leekli/clinical-guideline-app-BE">Clinical Guideline Authoring App: Backend API</a><br />
-- <a href="https://github.com/leekli/clinical-guideline-app-FE">Clinical Guideline Authoring App: Frontend App</a>
+- <a href="https://github.com/leekli/clinical-guideline-app-BE">Backend API</a> | <a href="https://github.com/leekli/clinical-guideline-app-FE">Frontend App</a>
 <br /><br />
 
 <strong> 3. Inclusive Manchester</strong>
 <br />
 
 > [!NOTE]  
-> A full stack app which allows people with accessibility needs to review, rate and comment on public venues and businesses on how inclusive, accessible and friendly they are. Complete as part of a 3 week group work project on a coding bootcamp.
+> Full-stack app which allows people with accessibility needs to review, rate & comment on public venues/businesses on how inclusive, accessible & friendly they are. Created on coding bootcamp.
 
-- <a href="https://github.com/leekli/AccessApp-Backend">InclusiveManchester: Backend API</a><br />
-- <a href="https://github.com/leekli/AccessApp-Frontend">InclusiveManchester: Frontend App</a><br />
-- <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Our teams group presentation and live demo here</a>
+- <a href="https://github.com/leekli/AccessApp-Backend">Backend API</a> | <a href="https://github.com/leekli/AccessApp-Frontend">Frontend App</a> | <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Team Demo</a>
 <br /><br />
 
-#### 🧠 Katas & Problem Solving Solutions:
+#### 🧠 Katas & Various Solutions:
 
-1. [My Codewars solutions](https://github.com/leekli/codewars-my-solutions)
-3. My Advent of Code Solutions: [2023](https://github.com/leekli/aoc2023) / [2022](https://github.com/leekli/aoc2022)
-4. [My Project Euler solutions](https://github.com/leekli/project-euler)
+1. [Codewars solutions](https://github.com/leekli/codewars-my-solutions)
+3. Advent of Code Solutions: [2023](https://github.com/leekli/aoc2023) / [2022](https://github.com/leekli/aoc2022)
+4. [Project Euler solutions](https://github.com/leekli/project-euler)
 
 
-#### 🎮 Hobby / Fun:
+#### 🎮 Fun:
 
-1. [Windows XP Desktop Recreation](https://github.com/leekli/windows-desktop-fun)
+1. [Windows XP Desktop Re-creation](https://github.com/leekli/windows-desktop-fun)
 2. [Created own: `wc` Command Line Tool](https://github.com/leekli/wc-recreation)
 
 ---
 
-### ⚡ Technologies I've used and have experience with
+### ⚡ Technologies I've used & have varying levels of experience with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
