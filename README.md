@@ -2,15 +2,28 @@
 
 ## Hi, I'm Lee 👋
 
-### Welcome to my GitHub 😀🇬🇧♐️
+### ❤️ I am a...
+	
+&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 $${\color{cornflowerblue}Coder \space and \space Technologist}$$
 
-🎯 I am a Software Developer.
+&nbsp;&nbsp;&nbsp;&nbsp; 🏋️‍♂️ $${\color{plum}Lifter}$$
 
-🎓 I've achieved a Distinction in MSc Computer Science (December 2023). I've also completed a 13-week Software Engineering Bootcamp (in 2022), and a 20-week DevOps Bootcamp (in 2023).
+&nbsp;&nbsp;&nbsp;&nbsp; 📚 $${\color{purple}Reader}$$
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/leekirkham/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp; 🎮 $${\color{white}Part-time \space Gamer}$$
+
+&nbsp;&nbsp;&nbsp;&nbsp; 💾 $${\color{cornflowerblue}Retro \space Tech \space Enthusiast}$$
+
+&nbsp;&nbsp;&nbsp;&nbsp; 🧬 $${\color{plum}Humanist}$$
+
+&nbsp;&nbsp;&nbsp;&nbsp; 👱🏻‍♂️ $${\color{purple}Existentialist}$$
+
+&nbsp;&nbsp;&nbsp;&nbsp; ♐️ $${\color{white}Sagittarius}$$
+
+<br />
+
+<a href="mailto:iamleexyz.sandpaper919@passmail.net" target="_blank"><img src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Purple and white Mail image which will allow you to send email to me"/></a>
+<a href="https://www.linkedin.com/in/leekirkham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue and white LinkedIn logo image which will link you to my public LinkedIn profile"/></a>
 
 ---
 ### ⚡ My Main Repos
