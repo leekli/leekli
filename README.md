@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 📚 $${\color{purple}Reader}$$
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🎮 $${\color{white}Part-time \space Gamer}$$
+&nbsp;&nbsp;&nbsp;&nbsp; 🎮 $${\color{white}Irregular \space Gamer}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp; 💾 $${\color{cornflowerblue}Retro \space Tech \space Enthusiast}$$
 
