@@ -12,8 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🎮 $${\color{white}Irregular \space Gamer}$$
 
-&nbsp;&nbsp;&nbsp;&nbsp; 💾 $${\color{cornflowerblue}Retro \space Tech \space Enthusiast}$$
-
 &nbsp;&nbsp;&nbsp;&nbsp; 🧬 $${\color{plum}Humanist}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp; 👱🏻‍♂️ $${\color{purple}Existentialist}$$
