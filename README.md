@@ -4,7 +4,7 @@
 
 ### ❤️ I am a...
 	
-&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 $${\color{cornflowerblue}Coder$$
+&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 $${\color{cornflowerblue}Coder}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🏋️‍♂️ $${\color{plum}Lifter}$$
 
