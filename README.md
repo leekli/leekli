@@ -57,7 +57,7 @@
 #### 🧠 Katas & Various Solutions:
 
 1. [Codewars solutions](https://github.com/leekli/codewars-my-solutions)
-3. Advent of Code Solutions: [2023](https://github.com/leekli/aoc2023) / [2022](https://github.com/leekli/aoc2022)
+3. Advent of Code Solutions: [2024](https://github.com/leekli/aoc2024) / [2023](https://github.com/leekli/aoc2023) / [2022](https://github.com/leekli/aoc2022) / [2015](https://github.com/leekli/aoc2015)
 4. [Project Euler solutions](https://github.com/leekli/project-euler)
 
 
