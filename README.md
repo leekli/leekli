@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-## Hi, I'm Lee 👋
+## Hi, I'm Lee 李 👋
 
 ### ❤️ I am a...
 	
@@ -22,49 +22,6 @@
 
 <a href="mailto:iamleexyz.sandpaper919@passmail.net" target="_blank"><img src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Purple and white Mail image which will allow you to send email to me"/></a>
 <a href="https://www.linkedin.com/in/leekirkham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue and white LinkedIn logo image which will link you to my public LinkedIn profile"/></a>
-
----
-### ⚡ My Main Repos
-
-#### 💼 Portfolio Projects:
-
-<strong> 1. Lee's News</strong>
-<br />
-> [!NOTE]  
-> Full-stack news app allowing users to read & add articles, add comments, voting. Created on coding bootcamp.
-
-- <a href="https://github.com/leekli/nc-news-backend">Backend API</a> | <a href="https://github.com/leekli/nc-news-frontend">Frontend App</a>
-<br /><br />
-
-<strong> 2. Clinical Guideline Authoring App</strong>
-<br />
-
-> [!NOTE]  
-> Full-stack app which allows clinicians to access clinical guidelines. Includes an authoring system to edit and create guidelines with other clinicans, version control, change tracking and publishing approval systems. Complete as part of my MSc Computer Science.
-
-- <a href="https://github.com/leekli/clinical-guideline-app-BE">Backend API</a> | <a href="https://github.com/leekli/clinical-guideline-app-FE">Frontend App</a>
-<br /><br />
-
-<strong> 3. Inclusive Manchester</strong>
-<br />
-
-> [!NOTE]  
-> Full-stack app which allows people with accessibility needs to review, rate & comment on public venues/businesses on how inclusive, accessible & friendly they are. Created on coding bootcamp.
-
-- <a href="https://github.com/leekli/AccessApp-Backend">Backend API</a> | <a href="https://github.com/leekli/AccessApp-Frontend">Frontend App</a> | <a href="https://northcoders.com/projects/march-2022/inclusive-manchester">Team Demo</a>
-<br /><br />
-
-#### 🧠 Katas & Various Solutions:
-
-1. [Codewars solutions](https://github.com/leekli/codewars-my-solutions)
-3. Advent of Code Solutions: [2024](https://github.com/leekli/aoc2024) / [2023](https://github.com/leekli/aoc2023) / [2022](https://github.com/leekli/aoc2022) / [2015](https://github.com/leekli/aoc2015)
-4. [Project Euler solutions](https://github.com/leekli/project-euler)
-
-
-#### 🎮 Fun:
-
-1. [Windows XP Desktop Re-creation](https://github.com/leekli/windows-desktop-fun)
-2. [Created own: `wc` Command Line Tool](https://github.com/leekli/wc-recreation)
 
 ---
 
