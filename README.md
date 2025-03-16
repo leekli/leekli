@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-## Hi, I'm Lee 李 👋
+## 李 li [lee] 👋
 
 ### ❤️ I am a...
 	
