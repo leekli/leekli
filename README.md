@@ -20,9 +20,6 @@
 
 <br />
 
-<a href="mailto:iamleexyz.sandpaper919@passmail.net" target="_blank"><img src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Purple and white Mail image which will allow you to send email to me"/></a>
-<a href="https://www.linkedin.com/in/leekirkham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue and white LinkedIn logo image which will link you to my public LinkedIn profile"/></a>
-
 ---
 
 ### ⚡ Technologies I've used & have varying levels of experience with
