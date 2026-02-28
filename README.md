@@ -56,8 +56,8 @@
 ---
 ### ⚡ My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=leekli&show_icons=true&theme=algolia" width="400">
+![My Stats](https://github-stats-extended.vercel.app/api?username=leekli&layout=compact&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekli&hide=TeX&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=leekli&langs_count=5&layout=compact&show_icons=true&theme=calm&rank_icon=github)
 
 <a href="https://www.codewars.com/users/leekli" target=”_blank”><img src="https://www.codewars.com/users/leekli/badges/large" /></a>
