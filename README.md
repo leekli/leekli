@@ -12,7 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🎮 $${\color{white}Irregular \space Gamer}$$
 
-&nbsp;&nbsp;&nbsp;&nbsp; ♐️ $${\color{white}Sagittarius}$$
+&nbsp;&nbsp;&nbsp;&nbsp; ♐️ $${\color{cornflowerblue}Sagittarius}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🧬 $${\color{plum}Humanist}$$
 
